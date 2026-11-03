@@ -1,0 +1,5 @@
+tensorflow
+tensorboard
+numpy
+scikit-learn 
+libpysal
