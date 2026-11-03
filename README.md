@@ -1,6 +1,8 @@
 # STC-Traj2vec
 
-Code for the paper [**"STC-Traj2vec: Spatio-Temporal Context Integrated Trajectory Representation Learning for Clustering"**](https://www.sciencedirect.com/science/article/pii/S095070512600835X).
+Code for the paper titled
+[**"STC-Traj2vec: Spatio-Temporal Context Integrated Trajectory Representation Learning for Clustering"**](https://www.sciencedirect.com/science/article/pii/S095070512600835X).
+
 
 Two-stage pipeline that learns trajectory embeddings with weekday-hour context, for the **GeoLife** and **Porto** datasets.
 
